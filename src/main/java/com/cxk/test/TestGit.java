@@ -6,6 +6,7 @@ package com.cxk.test;
 public class TestGit {
     public static void main(String[] args) {
         System.out.println("Git");
+        System.out.println("Git test");
     }
 
 }
