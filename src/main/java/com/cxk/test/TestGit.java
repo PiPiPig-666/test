@@ -11,6 +11,7 @@ public class TestGit {
         System.out.println("master-test");
         System.out.println("Hot-fix 合并冲突");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 
 }
