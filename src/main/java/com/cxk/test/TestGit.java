@@ -9,6 +9,7 @@ public class TestGit {
         System.out.println("Git test");
         System.out.println("Git hot-fix");
         System.out.println("master-test");
+        System.out.println("Hot-fix 合并冲突");
     }
 
 }
